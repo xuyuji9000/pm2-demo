@@ -1,0 +1,14 @@
+{
+  "name": "pm2-demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Karl Xu <karl.yogi.xu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  }
+}
