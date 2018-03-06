@@ -11,4 +11,4 @@ This project test out how to run express project with pm2.
 
 # something wrong
 
-1. checkout the log: `./node_modules/pm2/bin/pm2 logs app.js `
+1. checkout the log: `./node_modules/pm2/bin/pm2 logs app`
